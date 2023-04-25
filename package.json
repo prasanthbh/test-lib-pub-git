@@ -1,9 +1,9 @@
 {
-  "name": "@prasanthbheemarasetty/test-lib-pub-git",
+  "name": "@prasanthbh/test-lib-pub-git",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/prasanthbheemarasetty"
+    "registry": "https://npm.pkg.github.com/prasanthbh"
   },
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": "Prasanth Bheemarasetty",
   "description": "A dummy public NPM react library project",
   "private": false,

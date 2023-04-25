@@ -25,7 +25,11 @@ export default [
       peerDepsExternal(),
       resolve(),
       commonjs(),
-      typescript({ tsconfig: "./tsconfig.json", sourceMap: true }),
+      typescript({
+        tsconfig: "./tsconfig.json",
+        sourceMap: true,
+        inlineSources: true,
+      }),
       postcss(),
       terser(),
     ],
