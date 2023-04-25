@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/prasanthbheemarasetty"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Prasanth Bheemarasetty",
   "description": "A dummy public NPM react library project",
   "private": false,
